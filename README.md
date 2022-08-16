@@ -3,7 +3,7 @@
 
 <h2>Description</h2>
 
-There is no single narrative or version. There are five different endings, each with multiple pathways to them.
+There is no single narrative or version. There are five different endings, each with multiple pathways to them
 <br />
 
 
